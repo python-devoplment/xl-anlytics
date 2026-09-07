@@ -1,4 +1,4 @@
-name: Analyze excel
+name: Analyze-excel
 
 on:
   pull_request:
